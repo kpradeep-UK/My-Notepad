@@ -18,10 +18,13 @@ My Notepad is a lightweight text editor built with Python and Tkinter. It offers
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/my-notepad.git
+   
 2.**Navigate to the project directory:**
   cd my-notepad
+  
 3.**Install the required dependencies:**
   pip install -r requirements.txt
+  
 4.**Run the application:**
   python my_notepad.py
 
